@@ -9,7 +9,7 @@ E-Commerce (Bere)
 -Cómo la pandemia ha alterado las tendencias de compra en relación al retail
 
 Penetración cultural de China (Jonathan)
--Cómo la llegada 
+-Cómo el crecimiento económico de China ha impactado en la cultura de México
 
 Spotify: trazar un perfil psicológico con base en lo que la gente escucha (Jonathan)
 
