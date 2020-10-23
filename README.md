@@ -1,7 +1,7 @@
 # Epsilon_Team
 
 Inmobiliario (Jesús y Gaby)
--Cómo han fluctuado los precios tras eventos como el sismo, instalación del metrobús, etc.
+-Cómo han fluctuado los precios tras eventos como el sismo del 19-S de 2017, instalación del metrobús, etc.
 -Cómo lo ha alterado el covid
 -Las tendencias de gentrificación
 
