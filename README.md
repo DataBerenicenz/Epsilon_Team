@@ -8,7 +8,7 @@ Jonathan Salguero
 
 Hypothesis: By analyzing the music datasets produced by Spotify and Billboard, we will understand:
 
--How have some aspects of music, specifically Valence (Degree of happinness), Energy and Danceability, and how have those evolved through time.
+-Based on aspects of music, specifically Valence (Degree of happinness), Energy and Danceability, understand how have those evolved through time.
 ----Do global events have influence on them?
 ----How those aspects manifest in different countries
 
