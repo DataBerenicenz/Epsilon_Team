@@ -1,16 +1,29 @@
-# Epsilon_Team
+Epsilon Music Production Agency
 
-Inmobiliario (Jesús y Gaby)
--Cómo han fluctuado los precios tras eventos como el sismo del 19-S de 2017, instalación del metrobús, etc.
--Cómo lo ha alterado el covid
--Las tendencias de gentrificación
+Team members:
+Jesús Daniel Sánchez Romo
+Gabriela Díaz
+Berenice 
+Jonathan Salguero
 
-E-Commerce (Bere)
--Cómo la pandemia ha alterado las tendencias de compra en relación al retail
+Hypothesis: By analyzing the music datasets produced by Spotify and Billboard, we will understand:
 
-Penetración cultural de China (Jonathan)
--Cómo el crecimiento económico de China ha impactado en la cultura de México
+-How have some aspects of music, specifically Valence (Degree of happinness), Energy and Danceability, and how have those evolved through time.
+----Do global events have influence on them?
+----How those aspects manifest in different countries
 
-Spotify: trazar un perfil psicológico con base en lo que la gente escucha (Jonathan)
+-How do said aspects relate to music produced in the countries on scope (Mexico, Argentina, Australia, Canada, Germany, Japan and UK)
+----How do those aspects relate to music consumed in the countries
+----Which are the aspects in which we should focus to forge succesfull carreers
 
-Youtube: trazar un perfil psicológico con base en lo que la gente ve (Gaby)
+-How do these aspects relate to location of the countries?
+----Is it true that, closer to the Equator music tends to be more Happy (Valence)? 
+----How do the other aspects relate in that geographic sense 
+
+Why we want to know that?
+
+We are a data-driven agency focused on developing musical talents with high Return of Investment, so we want to understand the features of local music trends
+in order to leverage them for our business.
+
+
+
