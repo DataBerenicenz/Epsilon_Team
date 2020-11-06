@@ -3,7 +3,7 @@ Epsilon Music Production Agency
 Team members:
 Jesús Daniel Sánchez Romo
 Gabriela Díaz
-Berenice 
+Berenice Nares
 Jonathan Salguero
 
 Hypothesis: By analyzing the music datasets produced by Spotify and Billboard, we will understand:
